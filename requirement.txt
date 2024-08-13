@@ -1,0 +1,8 @@
+# need modules to know 
+
+1. python 
+2. NumPy
+3. pandas 
+4. scikit-learn
+5. Jupyter Notebook
+
